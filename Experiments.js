@@ -74,3 +74,5 @@ function (addOne, addTwo) {
     return 10
 }
 
+console.log('hello world');
+
